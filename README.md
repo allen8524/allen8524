@@ -4,38 +4,48 @@
 
 <br/>
 
-<div align="center">
-
 <table>
   <tr>
     <td align="center" width="50%">
-      <h3>📍 프로필 📍</h3>
+      <p>📍 프로필 📍</p>
     </td>
     <td align="center" width="50%">
-      <h3>🚀 프로젝트 🚀</h3>
+      <p>🚀 프로젝트 🚀</p>
     </td>
   </tr>
   <tr>
-    <td align="center">
+    <td align="center" valign="top">
       <a href="https://allen8524.github.io/">
         <img src="https://img.shields.io/badge/MY%20WEBSITE-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white" />
       </a>
+      <br/>
       <a href="https://github.com/allen8524">
         <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
       </a>
+      <br/>
       <a href="mailto:minseo8524@gmail.com">
         <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
     </td>
-    <td align="center">
+    <td align="center" valign="top">
       <a href="https://github.com/allen8524/allen8524.github.io">
-        <img src="https://img.shields.io/badge/PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
+        <img src="https://img.shields.io/badge/PORTFOLIO%20WEBSITE-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
       </a>
+      <br/>
       <a href="https://github.com/allen8524/shopping-mall-management-php">
         <img src="https://img.shields.io/badge/SHOPPING%20MALL-1D4ED8?style=for-the-badge&logo=php&logoColor=white" />
       </a>
+      <br/>
       <a href="https://github.com/allen8524/esports-portal-management">
         <img src="https://img.shields.io/badge/ESPORTS%20PORTAL-7C3AED?style=for-the-badge&logo=laravel&logoColor=white" />
+      </a>
+      <br/>
+      <a href="https://github.com/allen8524/bakery-sales-management-laravel">
+        <img src="https://img.shields.io/badge/BAKERY%20SALES-DC2626?style=for-the-badge&logo=laravel&logoColor=white" />
+      </a>
+      <br/>
+      <a href="https://solved.ac/profile/allen8524">
+        <img src="https://img.shields.io/badge/SOLVED.AC-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white" />
       </a>
     </td>
   </tr>
@@ -45,10 +55,9 @@
 
 <p align="center">안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</p>
 
-</div>
 <br/><br/>
 
-<h3>💡 사용 기술 💡</h3>
+<p align="center">💡 사용 기술 💡</p>
 
 <br/>
 
@@ -74,7 +83,7 @@
 
 <br/><br/>
 
-<h3>🛠 도구 🛠</h3>
+<p align="center">🛠 도구 🛠</p>
 
 <br/>
 
@@ -99,7 +108,7 @@
 
 <br/><br/>
 
-<h3>🎓 학력 및 학습 🎓</h3>
+<p align="center">🎓 학력 및 학습 🎓</p>
 
 <br/>
 
@@ -109,7 +118,7 @@
 
 <br/><br/>
 
-<h3>📊 GitHub 통계 📊</h3>
+<p align="center">📊 GitHub 통계 📊</p>
 
 <br/>
 

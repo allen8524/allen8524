@@ -10,14 +10,20 @@
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allen8524)
 [![EMAIL](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseo8524@gmail.com)
 
-<br/>
+<br/><br/>
+
+<a href="https://solved.ac/profile/allen8524">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=allen8524" alt="Solved.ac Profile" width="420" />
+</a>
+
+<br/><br/>
 
 안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다  
 인덕대학교 컴퓨터소프트웨어학과 · Spring Boot · Laravel · PHP · MySQL
 
 <br/><br/>
 
-## 프로젝 🚀
+## 프로젝트 🚀
 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/allen8524/allen8524.github.io)
 [![SHOPPING MALL](https://img.shields.io/badge/SHOPPING%20MALL-1D4ED8?style=for-the-badge&logo=php&logoColor=white)](https://github.com/allen8524/shopping-mall-management-php)
@@ -77,8 +83,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allen8524&theme=github" width="46%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allen8524&theme=github&utcOffset=9" width="46%" />
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=allen8524" alt="Solved.ac Profile" />
 
 <br/><br/>
 

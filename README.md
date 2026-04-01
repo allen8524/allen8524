@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:111827&height=150&section=header&text=MINSEO&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=%2F*backend%20developer%20and%20more*%2F&descAlignY=68&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1f2937,100:334155&height=150&section=header&text=MINSEO&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=%2F*backend%20developer%20and%20more*%2F&descAlignY=68&descSize=20" />
 
 <br/>
 
 ## PROFILE 📍
 
-[![PORTFOLIO](https://img.shields.io/badge/MY%20WEBSITE-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allen8524.github.io/)
+[![MY WEBSITE](https://img.shields.io/badge/MY%20WEBSITE-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allen8524.github.io/)
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allen8524)
 [![EMAIL](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseo8524@gmail.com)
 
@@ -20,9 +20,9 @@ Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
 ## PROJECT 🚀
 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/allen8524/allen8524.github.io)
-[![SHOPPING%20MALL](https://img.shields.io/badge/SHOPPING%20MALL-1D4ED8?style=for-the-badge&logo=php&logoColor=white)](https://github.com/allen8524/shopping-mall-management-php)
-[![ESPORTS%20PORTAL](https://img.shields.io/badge/ESPORTS%20PORTAL-7C3AED?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/allen8524/esports-portal-management)
-[![BAKERY%20SALES](https://img.shields.io/badge/BAKERY%20SALES-DC2626?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/allen8524/bakery-sales-management-laravel)
+[![SHOPPING MALL](https://img.shields.io/badge/SHOPPING%20MALL-1D4ED8?style=for-the-badge&logo=php&logoColor=white)](https://github.com/allen8524/shopping-mall-management-php)
+[![ESPORTS PORTAL](https://img.shields.io/badge/ESPORTS%20PORTAL-7C3AED?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/allen8524/esports-portal-management)
+[![BAKERY SALES](https://img.shields.io/badge/BAKERY%20SALES-DC2626?style=for-the-badge&logo=laravel&logoColor=white)](https://github.com/allen8524/bakery-sales-management-laravel)
 [![SOLVED.AC](https://img.shields.io/badge/SOLVED.AC-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white)](https://solved.ac/profile/allen8524)
 
 <br/><br/>
@@ -58,20 +58,27 @@ Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
 
 <img src="https://img.shields.io/badge/INDUK%20UNIVERSITY-1E3A8A?style=for-the-badge&logo=googleacademics&logoColor=white" />
 <img src="https://img.shields.io/badge/COMPUTER%20SOFTWARE-0F766E?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/INFORMATION%20PROCESSING%20INDUSTRIAL%20ENGINEER-PENDING-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/INFORMATION%20PROCESSING%20INDUSTRIAL%20ENGINEER-PREPARING-9333EA?style=for-the-badge" />
 
 <br/><br/>
 
 ## 📊 GitHub Stats 📊
 
-<img src="https://raw.githubusercontent.com/allen8524/allen8524/main/profile-summary-card-output/github/0-profile-details.svg" width="100%" />
-
-<img src="https://raw.githubusercontent.com/allen8524/allen8524/main/profile-summary-card-output/github/3-stats.svg" width="49%" />
-<img src="https://raw.githubusercontent.com/allen8524/allen8524/main/profile-summary-card-output/github/1-repos-per-language.svg" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allen8524&theme=github" width="100%" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=allen8524&theme=default&hide_border=true&locale=ko" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allen8524&theme=github" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allen8524&theme=github" width="49%" />
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allen8524&theme=github" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allen8524&theme=github&utcOffset=9" width="49%" />
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=allen8524&theme=github-dark-blue&hide_border=true&locale=ko" />
 
 <br/><br/>
 

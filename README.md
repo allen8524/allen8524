@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1f2937,100:334155&height=150&section=header&text=MINSEO&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=%2F*backend%20developer%20and%20more*%2F&descAlignY=68&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1f2937,100:334155&height=150&section=header&text=MINSEO&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=%EC%9D%B8%EB%8D%95%EB%8C%80%ED%95%99%EA%B5%90%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC%20%C2%B7%20Spring%20Boot%20%C2%B7%20Laravel%20%C2%B7%20PHP%20%C2%B7%20MySQL&descAlignY=68&descSize=15" />
 
 <br/>
 
@@ -12,12 +12,11 @@
 
 <br/><br/>
 
-안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다  
-인덕대학교 컴퓨터소프트웨어학과 · Spring Boot · Laravel · PHP · MySQL
+<h3>안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</h3>
 
-<br/><br/>
+<br/>
 
-## 프로젝트 🚀
+## 🚀 프로젝트 🚀
 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/allen8524/allen8524.github.io)
 [![SHOPPING MALL](https://img.shields.io/badge/SHOPPING%20MALL-1D4ED8?style=for-the-badge&logo=php&logoColor=white)](https://github.com/allen8524/shopping-mall-management-php)
@@ -35,6 +34,8 @@
 <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -56,9 +57,9 @@
 
 ## 🎓 학력 및 학습 🎓
 
-<img src="https://img.shields.io/badge/INDUK%20UNIVERSITY-1E3A8A?style=for-the-badge&logo=googleacademics&logoColor=white" />
-<img src="https://img.shields.io/badge/COMPUTER%20SOFTWARE-0F766E?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/INFORMATION%20PROCESSING%20INDUSTRIAL%20ENGINEER-PREPARING-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%EC%9D%B8%EB%8D%95%EB%8C%80%ED%95%99%EA%B5%90-1E3A8A?style=for-the-badge&logo=googleacademics&logoColor=white" />
+<img src="https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC-0F766E?style=for-the-badge&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC%20%EC%A4%80%EB%B9%84%20%EC%A4%91-9333EA?style=for-the-badge" />
 
 <br/><br/>
 
@@ -85,7 +86,5 @@
 </a>
 
 <br/><br/>
-
-<sub>꾸준히 쌓인 기록이 결국 더 단단한 개발자를 만든다고 믿습니다 ✨</sub>
 
 </div>

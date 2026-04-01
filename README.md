@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,65:1e3a8a,100:2563eb&height=240&section=header&text=MINSEO&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%EC%9D%B8%EB%8D%95%EB%8C%80%ED%95%99%EA%B5%90%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC%0ASpring%20Boot%20%C2%B7%20Laravel%20%C2%B7%20PHP%20%C2%B7%20MySQL%0ABackend%20Developer&descAlignY=67&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,65:1e3a8a,100:2563eb&height=240&section=header&text=MINSEO&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%EC%9D%B8%EB%8D%95%EB%8C%80%ED%95%99%EA%B5%90%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC%0ASpring%20Boot%20%C2%B7%20Laravel%20%C2%B7%20PHP%20%C2%B7%20MySQL%0A%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=67&descSize=16" />
 
 <br/><br/>
 

@@ -4,7 +4,7 @@
 
 <br/>
 
-## 📍 프로필 📍
+<h3>📍 프로필 📍</h3>
 
 <br/>
 
@@ -12,9 +12,13 @@
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allen8524)
 [![EMAIL](https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minseo8524@gmail.com)
 
-<h2>안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</h2>
+<br/><br/>
 
-## 🚀 프로젝트 🚀
+<h3>안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</h3>
+
+<br/>
+
+<h3>🚀 프로젝트 🚀</h3>
 
 <br/>
 
@@ -26,7 +30,7 @@
 
 <br/><br/>
 
-## 💡 사용 기술 💡
+<h3>💡 사용 기술 💡</h3>
 
 <br/>
 
@@ -52,7 +56,7 @@
 
 <br/><br/>
 
-## 🛠 도구 🛠
+<h3>🛠 도구 🛠</h3>
 
 <br/>
 
@@ -77,7 +81,7 @@
 
 <br/><br/>
 
-## 🎓 학력 및 학습 🎓
+<h3>🎓 학력 및 학습 🎓</h3>
 
 <br/>
 
@@ -87,9 +91,9 @@
 
 <br/><br/>
 
-## 📊 GitHub 통계 📊
+<h3>📊 GitHub 통계 📊</h3>
 
-<div align="center">
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allen8524&theme=github" width="92%" />
 

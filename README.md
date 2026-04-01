@@ -64,16 +64,22 @@ Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
 
 ## 📊 GitHub Stats 📊
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allen8524&theme=github" width="100%" />
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allen8524&theme=github" width="92%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allen8524&theme=github" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allen8524&theme=github" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allen8524&theme=github" width="46%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allen8524&theme=github" width="46%" />
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allen8524&theme=github" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allen8524&theme=github&utcOffset=9" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allen8524&theme=github" width="46%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allen8524&theme=github&utcOffset=9" width="46%" />
+
+<br/><br/>
+
+<sub>꾸준히 쌓인 기록이 결국 더 단단한 개발자를 만든다고 믿습니다 ✨</sub>
 
 </div>

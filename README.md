@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1f2937,100:334155&height=150&section=header&text=MINSEO&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=38&desc=%EC%9D%B8%EB%8D%95%EB%8C%80%ED%95%99%EA%B5%90%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC%20%C2%B7%20Spring%20Boot%20%C2%B7%20Laravel%20%C2%B7%20PHP%20%C2%B7%20MySQL&descAlignY=68&descSize=15" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1f2937,100:334155&height=170&section=header&text=MINSEO&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=30&desc=%EC%9D%B8%EB%8D%95%EB%8C%80%ED%95%99%EA%B5%90%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC%0ASpring%20Boot%20%C2%B7%20Laravel%20%C2%B7%20PHP%20%C2%B7%20MySQL%0ABackend%20Developer&descAlignY=62&descSize=14" />
 
 <br/>
 
 ## 프로필 📍
+
+<br/>
 
 [![MY WEBSITE](https://img.shields.io/badge/MY%20WEBSITE-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allen8524.github.io/)
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allen8524)
@@ -12,11 +14,13 @@
 
 <br/><br/>
 
-<h3>안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</h3>
+<h2>안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</h2>
 
 <br/>
 
 ## 🚀 프로젝트 🚀
+
+<br/>
 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/allen8524/allen8524.github.io)
 [![SHOPPING MALL](https://img.shields.io/badge/SHOPPING%20MALL-1D4ED8?style=for-the-badge&logo=php&logoColor=white)](https://github.com/allen8524/shopping-mall-management-php)
@@ -28,11 +32,15 @@
 
 ## 💡 사용 기술 💡
 
+<br/>
+
 <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
 <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+
+<br/>
 
 <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/GOOGLE%20COLAB-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" />
@@ -41,6 +49,8 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
 
+<br/>
+
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
 
@@ -48,18 +58,36 @@
 
 ## 🛠 도구 🛠
 
+<br/>
+
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/MYSQL%20WORKBENCH-0F5D8C?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL%20WORKBENCH-0F5D8C?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/PHPMYADMIN-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
+<img src="https://img.shields.io/badge/LARAGON-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
+<img src="https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
+<img src="https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+
+<br/>
+
+<img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB%20PAGES-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
 
 <br/><br/>
 
 ## 🎓 학력 및 학습 🎓
 
+<br/>
+
 <img src="https://img.shields.io/badge/%EC%9D%B8%EB%8D%95%EB%8C%80%ED%95%99%EA%B5%90-1E3A8A?style=for-the-badge&logo=googleacademics&logoColor=white" />
 <img src="https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC-0F766E?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC%20%EC%A4%80%EB%B9%84%20%EC%A4%91-9333EA?style=for-the-badge" />
+<img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC-9333EA?style=for-the-badge" />
 
 <br/><br/>
 

@@ -76,12 +76,4 @@ Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allen8524&theme=github" width="49%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allen8524&theme=github&utcOffset=9" width="49%" />
 
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=allen8524&theme=github-dark-blue&hide_border=true&locale=ko" />
-
-<br/><br/>
-
-<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=allen8524" alt="Solved.ac Profile" />
-
 </div>

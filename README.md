@@ -7,10 +7,10 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <p>📍 프로필 📍</p>
+      <p> 프로필 </p>
     </td>
     <td align="center" width="50%">
-      <p>🚀 프로젝트 🚀</p>
+      <p> 프로젝트 </p>
     </td>
   </tr>
   <tr>
@@ -53,7 +53,7 @@
 
 <br/>
 
-<p align="center">안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</p>
+<h2 align="center">안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</h2>
 
 <br/>
 

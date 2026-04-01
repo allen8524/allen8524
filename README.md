@@ -4,7 +4,7 @@
 
 <br/>
 
-## PROFILE 📍
+## 프로필 📍
 
 [![MY WEBSITE](https://img.shields.io/badge/MY%20WEBSITE-3B82F6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://allen8524.github.io/)
 [![GITHUB](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/allen8524)
@@ -12,12 +12,12 @@
 
 <br/>
 
-Stable backend developer who aims to build reliable services  
-Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
+안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다  
+인덕대학교 컴퓨터소프트웨어학과 · Spring Boot · Laravel · PHP · MySQL
 
 <br/><br/>
 
-## PROJECT 🚀
+## 프로젝ㅌ 🚀
 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/allen8524/allen8524.github.io)
 [![SHOPPING MALL](https://img.shields.io/badge/SHOPPING%20MALL-1D4ED8?style=for-the-badge&logo=php&logoColor=white)](https://github.com/allen8524/shopping-mall-management-php)
@@ -27,7 +27,7 @@ Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
 
 <br/><br/>
 
-## 💡 What I've Used 💡
+## 💡 사용 기술 💡
 
 <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -45,7 +45,7 @@ Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
 
 <br/><br/>
 
-## 🛠 Tools 🛠
+## 🛠 도구 🛠
 
 <img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/MYSQL%20WORKBENCH-0F5D8C?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -54,7 +54,7 @@ Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
 
 <br/><br/>
 
-## 🎓 EDUCATION 🎓
+## 🎓 학력 및 학습 🎓
 
 <img src="https://img.shields.io/badge/INDUK%20UNIVERSITY-1E3A8A?style=for-the-badge&logo=googleacademics&logoColor=white" />
 <img src="https://img.shields.io/badge/COMPUTER%20SOFTWARE-0F766E?style=for-the-badge&logo=academia&logoColor=white" />
@@ -62,7 +62,7 @@ Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
 
 <br/><br/>
 
-## 📊 GitHub Stats 📊
+## 📊 GitHub 통계 📊
 
 <div align="center">
 
@@ -80,6 +80,6 @@ Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
 
 <br/><br/>
 
-<sub>I believe the records built up consistently over time are what make a stronger developer ✨</sub>
+<sub>꾸준히 쌓인 기록이 결국 더 단단한 개발자를 만든다고 믿습니다 ✨</sub>
 
 </div>

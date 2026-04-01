@@ -12,7 +12,7 @@
 
 <br/>
 
-Stable backend developer who aims to build reliable services
+Stable backend developer who aims to build reliable services  
 Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
 
 <br/><br/>

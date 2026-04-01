@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,65:1e3a8a,100:2563eb&height=240&section=header&text=MINSEO&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%EC%9D%B8%EB%8D%95%EB%8C%80%ED%95%99%EA%B5%90%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC%0ASpring%20Boot%20%C2%B7%20Laravel%20%C2%B7%20PHP%20%C2%B7%20MySQL%0A%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=67&descSize=16" />
 
-<br/><br/>
-
 <table>
   <tr>
     <td align="center" width="50%">
@@ -51,9 +49,7 @@
   </tr>
 </table>
 
-<br/>
-
-<h3 align="center">안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,35:1e3a8a,70:0f172a,100:020617&height=200&section=footer&text=%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EB%B6%80%EB%94%AA%ED%9E%88%EB%A9%B0%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94%20%EA%B3%BC%EC%A0%95%EC%9D%84%20%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4-nl-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A7%88%EB%8B%A4%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%9D%90%EB%A6%84%EC%9D%84%20%EA%B3%A0%EB%AF%BC%ED%95%98%EB%A9%B0%20%EB%8D%94%20%EB%82%98%EC%9D%80%20%EA%B5%AC%ED%98%84%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%8C%93%EC%95%84%EA%B0%80%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-nl-%EC%95%88%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EB%AA%A9%ED%91%9C%EB%A1%9C%20%ED%95%A9%EB%8B%88%EB%8B%A4&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=67" />
 
 <br/>
 

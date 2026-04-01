@@ -133,7 +133,7 @@
 <br/>
 
 <a href="https://solved.ac/profile/allen8524">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=allen8524" alt="Solved.ac Profile" width="800" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=allen8524" alt="Solved.ac Profile" width="750" />
 </a>
 
 <br/><br/>

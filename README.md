@@ -12,7 +12,7 @@
 
 <br/>
 
-안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다  
+Stable backend developer who aims to build reliable services
 Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
 
 <br/><br/>
@@ -80,6 +80,6 @@ Induk University · Computer Software · Spring Boot · Laravel · PHP · MySQL
 
 <br/><br/>
 
-<sub>꾸준히 쌓인 기록이 결국 더 단단한 개발자를 만든다고 믿습니다 ✨</sub>
+<sub>I believe the records built up consistently over time are what make a stronger developer ✨</sub>
 
 </div>

@@ -17,7 +17,7 @@
 
 <br/><br/>
 
-## 프로젝ㅌ 🚀
+## 프로젝 🚀
 
 [![PORTFOLIO](https://img.shields.io/badge/PORTFOLIO%20WEBSITE-0F172A?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/allen8524/allen8524.github.io)
 [![SHOPPING MALL](https://img.shields.io/badge/SHOPPING%20MALL-1D4ED8?style=for-the-badge&logo=php&logoColor=white)](https://github.com/allen8524/shopping-mall-management-php)

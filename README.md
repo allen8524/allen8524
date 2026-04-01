@@ -53,11 +53,11 @@
 
 <br/>
 
-<h2 align="center">안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</h2>
+<h3 align="center">안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</h3>
 
 <br/>
 
-<p align="center">💡 사용 기술 💡</p>
+<h2 align="center">💡 사용 기술 💡</h2>
 
 <br/>
 
@@ -83,7 +83,7 @@
 
 <br/><br/>
 
-<p align="center">🛠 도구 🛠</p>
+<h2 align="center">🛠 도구 🛠</h2>
 
 <br/>
 
@@ -108,7 +108,7 @@
 
 <br/><br/>
 
-<p align="center">🎓 학력 및 학습 🎓</p>
+<h2 align="center">🎓 학력 및 학습 🎓</h2>
 
 <br/>
 
@@ -118,7 +118,7 @@
 
 <br/><br/>
 
-<p align="center">📊 GitHub 통계 📊</p>
+<h2 align="center">📊 GitHub 통계 📊</h2>
 
 <br/>
 

@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,50:1f2937,100:334155&height=170&section=header&text=MINSEO&fontSize=44&fontColor=f8fafc&animation=fadeIn&fontAlignY=30&desc=%EC%9D%B8%EB%8D%95%EB%8C%80%ED%95%99%EA%B5%90%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC%0ASpring%20Boot%20%C2%B7%20Laravel%20%C2%B7%20PHP%20%C2%B7%20MySQL%0A%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=62&descSize=14" />
 
-<br/>
+<br/><br/>
 
 <table>
   <tr>
@@ -55,7 +55,7 @@
 
 <p align="center">안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</p>
 
-<br/><br/>
+<br/>
 
 <p align="center">💡 사용 기술 💡</p>
 
@@ -124,20 +124,20 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allen8524&theme=github" width="92%" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allen8524&theme=github" width="46%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allen8524&theme=github" width="46%" />
 
-<br/><br/>
+<br/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allen8524&theme=github" width="46%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allen8524&theme=github&utcOffset=9" width="46%" />
 
-<br/><br/>
+<br/>
 
 <a href="https://solved.ac/profile/allen8524">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=allen8524" alt="Solved.ac Profile" width="420" />
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=allen8524" alt="Solved.ac Profile" width="930" />
 </a>
 
 <br/><br/>

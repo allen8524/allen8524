@@ -1,27 +1,30 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,50:334155,100:0f172a&height=230&section=header&text=Minseo%20Hwang&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:1f2937,100:334155&height=250&section=header&text=Minseo%20Hwang&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer&descAlignY=58&descSize=18)
 
-### 안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다
+<h3>안정적으로 동작하는 서비스를 만들고 싶은 백엔드 개발자입니다</h3>
 
-인덕대학교 컴퓨터소프트웨어학과 · Spring Boot · Laravel · PHP · MySQL
+<p>
+  인덕대학교 컴퓨터소프트웨어학과 · Spring Boot · Laravel · PHP · MySQL
+</p>
+
+<p>
+  <a href="https://github.com/allen8524">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://allen8524.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=aboutdotme&logoColor=white" />
+  </a>
+  <a href="mailto:minseo8524@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 <br/>
 
-<a href="https://github.com/allen8524">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://allen8524.github.io/">
-  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=aboutdotme&logoColor=white" />
-</a>
-<a href="mailto:minseo8524@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<br/>
-<br/>
-
-<sub>Backend Developer · Building reliable web services with steady growth 🚀</sub>
+<sub>
+  꾸준한 학습과 프로젝트 개선을 통해 신뢰할 수 있는 웹 서비스를 만들고 있습니다 🚀
+</sub>
 
 </div>
 
@@ -30,113 +33,86 @@
 ## 🙋 About Me
 
 <table>
-  <tr>
-    <td width="100%">
-      
-- 인덕대학교 컴퓨터소프트웨어학과 재학  
-- 백엔드 중심의 웹 서비스 개발에 관심이 많습니다  
-- CRUD 기반 프로젝트를 직접 구현하며 서비스 흐름을 익히고 있습니다  
-- 데이터베이스 설계와 서버 로직 구현 경험을 꾸준히 확장하고 있습니다  
-- 정보처리산업기사 실기와 CS 기초 학습을 병행하고 있습니다  
+<tr>
+<td width="60%" valign="top">
 
-  </td>
-  </tr>
-</table>
+- 인덕대학교 컴퓨터소프트웨어학과 재학
+- 백엔드 중심의 웹 서비스 개발에 관심이 많습니다
+- CRUD 기반 프로젝트를 직접 구현하며 서비스 흐름을 익히고 있습니다
+- 데이터베이스 설계와 서버 로직 구현 경험을 꾸준히 확장하고 있습니다
+- 정보처리산업기사 실기와 CS 기초 학습을 병행하고 있습니다
 
-<br/>
+</td>
+<td width="40%" valign="top">
 
-## 🛠 Tech Stack
+```text
+Interest
+- Backend Development
+- Database Design
+- Web Service Architecture
+- Practical Project Building
+</td> </tr> </table> <br/>
+🛠 Tech Stack
+<div align="center"> <table> <tr> <td align="center" width="25%">
+Backend
+<img src="https://skillicons.dev/icons?i=java,spring,php,laravel" /> </td> <td align="center" width="25%">
+Database
+<img src="https://skillicons.dev/icons?i=mysql" /> </td> <td align="center" width="25%">
+Frontend
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" /> </td> <td align="center" width="25%">
+Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode" /> </td> </tr> </table> </div> <br/>
+📚 Currently Learning
+<table> <tr> <td width="50%" valign="top">
+Learning Now
+Spring Boot 기반 프로젝트 구조 개선
+예외 처리와 오류 페이지 구성
+MySQL 데이터 모델링과 SQL 활용
+</td> <td width="50%" valign="top">
+CS Study
+운영체제
+네트워크
+자료구조
+데이터베이스
+정보처리산업기사 실기 대비
+</td> </tr> </table> <br/>
+🚀 Projects
+<table> <tr> <td width="50%" valign="top">
+🛒 Shopping Mall Management
 
-<table>
-  <tr>
-    <td align="center" width="25%">Backend</td>
-    <td align="center" width="25%">Database</td>
-    <td align="center" width="25%">Frontend</td>
-    <td align="center" width="25%">Tools</td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,spring,php,laravel" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode" />
-    </td>
-  </tr>
-</table>
+PHP · Bootstrap 기반 반응형 쇼핑몰
+상품 조회, 장바구니, 주문, 관리자 기능 포함
 
-<br/>
+<a href="https://github.com/allen8524/shopping-mall-management-php"> <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /> </a> </td> <td width="50%" valign="top">
+🎮 Esports Portal Management
 
-## 📚 Currently Learning
+e스포츠 관련 정보와 운영 기능을 관리하는 웹 프로젝트
 
-<table>
-  <tr>
-    <td width="100%">
+<a href="https://github.com/allen8524/esports-portal-management"> <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /> </a> </td> </tr> <tr> <td width="50%" valign="top">
+🥐 Bakery Sales Management
 
-- Spring Boot 기반 프로젝트 구조 개선  
-- 예외 처리와 오류 페이지 구성  
-- MySQL 데이터 모델링과 SQL 활용  
-- 운영체제, 네트워크, 자료구조, 데이터베이스 등 CS 기초 복습  
-- 정보처리산업기사 실기 대비  
+Laravel 기반 상품 및 판매 흐름 관리 웹 프로젝트
 
-  </td>
-  </tr>
-</table>
+<a href="https://github.com/allen8524/bakery-sales-management-laravel"> <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /> </a> </td> <td width="50%" valign="top">
+🌐 Portfolio Website
 
-<br/>
+프로젝트와 학습 내용을 정리한 개인 포트폴리오 사이트
 
-## 🚀 Projects
-
-<table>
-  <tr>
-    <td width="8%" align="center">🛒</td>
-    <td width="30%"><a href="https://github.com/allen8524/shopping-mall-management-php">Shopping Mall Management</a></td>
-    <td>PHP · Bootstrap 기반 반응형 쇼핑몰. 상품 조회, 장바구니, 주문, 관리자 기능 포함</td>
-  </tr>
-  <tr>
-    <td align="center">🎮</td>
-    <td><a href="https://github.com/allen8524/esports-portal-management">Esports Portal Management</a></td>
-    <td>e스포츠 관련 정보와 운영 기능을 관리하는 웹 프로젝트</td>
-  </tr>
-  <tr>
-    <td align="center">🥐</td>
-    <td><a href="https://github.com/allen8524/bakery-sales-management-laravel">Bakery Sales Management</a></td>
-    <td>Laravel 기반 상품 및 판매 흐름 관리 웹 프로젝트</td>
-  </tr>
-  <tr>
-    <td align="center">🌐</td>
-    <td><a href="https://github.com/allen8524/allen8524.github.io">Portfolio Website</a></td>
-    <td>프로젝트와 학습 내용을 정리한 개인 포트폴리오 사이트</td>
-  </tr>
-</table>
-
-<br/>
-
-## 📊 Stats
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=allen8524&theme=nord&hide_border=true&locale=ko&card_width=700" />
+<a href="https://github.com/allen8524/allen8524.github.io"> <img src="https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white" /> </a> </td> </tr> </table> <br/>
+📊 Stats
+<div align="center"> <img src="https://streak-stats.demolab.com?user=allen8524&theme=nord&hide_border=true&locale=ko&card_width=780" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=allen8524&theme=nord&hide_border=true&area=true" />
-
-</div>
-
-<br/>
-
----
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=allen8524&theme=nord&hide_border=true&area=true" /> </div> <br/>
 <div align="center">
+📫 Contact
 
-### Thanks for visiting 👋
+<a href="mailto:minseo8524@gmail.com">minseo8524@gmail.com
+</a>
 
-<sub>⚡ Crafted with passion · <a href="mailto:minseo8524@gmail.com">minseo8524@gmail.com</a></sub>
+<br/><br/>
 
-</div>
+<sub>Thanks for visiting my GitHub profile 👋</sub>
+
+</div> ```

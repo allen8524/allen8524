@@ -78,6 +78,8 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allen8524&theme=github" width="46%" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allen8524&theme=github&utcOffset=9" width="46%" />
 
+<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=allen8524" alt="Solved.ac Profile" />
+
 <br/><br/>
 
 <sub>꾸준히 쌓인 기록이 결국 더 단단한 개발자를 만든다고 믿습니다 ✨</sub>

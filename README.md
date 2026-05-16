@@ -5,10 +5,10 @@
 <table>
   <tr>
     <td align="center" width="50%">
-      <p> 프로필 </p>
+      <p>프로필</p>
     </td>
     <td align="center" width="50%">
-      <p> 프로젝트 </p>
+      <p>대표 프로젝트</p>
     </td>
   </tr>
   <tr>
@@ -24,42 +24,121 @@
       <a href="mailto:minseo8524@gmail.com">
         <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
       </a>
+      <br/>
+      <a href="https://solved.ac/profile/allen8524">
+        <img src="https://img.shields.io/badge/SOLVED.AC-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white" />
+      </a>
     </td>
     <td align="center" valign="top">
-      <a href="https://github.com/allen8524/allen8524.github.io">
-        <img src="https://img.shields.io/badge/PORTFOLIO%20WEBSITE-0F172A?style=for-the-badge&logo=vercel&logoColor=white" />
-      </a>
-      <br/>
-      <a href="https://github.com/allen8524/shopping-mall-management-php">
-        <img src="https://img.shields.io/badge/SHOPPING%20MALL-1D4ED8?style=for-the-badge&logo=php&logoColor=white" />
+      <a href="https://github.com/allen8524/cineflow-spring-boot">
+        <img src="https://img.shields.io/badge/CINEFLOW-2563EB?style=for-the-badge&logo=springboot&logoColor=white" />
       </a>
       <br/>
       <a href="https://github.com/allen8524/esports-portal-management">
         <img src="https://img.shields.io/badge/ESPORTS%20PORTAL-7C3AED?style=for-the-badge&logo=laravel&logoColor=white" />
       </a>
       <br/>
+      <a href="https://github.com/allen8524/shopping-mall-management-php">
+        <img src="https://img.shields.io/badge/SHOPPING%20MALL-1D4ED8?style=for-the-badge&logo=php&logoColor=white" />
+      </a>
+      <br/>
       <a href="https://github.com/allen8524/bakery-sales-management-laravel">
         <img src="https://img.shields.io/badge/BAKERY%20SALES-DC2626?style=for-the-badge&logo=laravel&logoColor=white" />
       </a>
       <br/>
-      <a href="https://solved.ac/profile/allen8524">
-        <img src="https://img.shields.io/badge/SOLVED.AC-0EA5E9?style=for-the-badge&logo=codeforces&logoColor=white" />
+      <a href="https://github.com/allen8524/healthyup-ios">
+        <img src="https://img.shields.io/badge/HEALTHYUP%20IOS-F97316?style=for-the-badge&logo=swift&logoColor=white" />
+      </a>
+      <br/>
+      <a href="https://github.com/allen8524/access-database-mini-projects">
+        <img src="https://img.shields.io/badge/ACCESS%20DB-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
+      </a>
+      <br/>
+      <a href="https://github.com/allen8524/undead-survivor-unity">
+        <img src="https://img.shields.io/badge/UNDEAD%20SURVIVOR-111827?style=for-the-badge&logo=unity&logoColor=white" />
       </a>
     </td>
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,35:1e3a8a,70:0f172a,100:020617&height=200&section=footer&text=%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EB%B6%80%EB%94%AA%ED%9E%88%EB%A9%B0%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94%20%EA%B3%BC%EC%A0%95%EC%9D%84%20%EC%A2%8B%EC%95%84%ED%95%A9%EB%8B%88%EB%8B%A4-nl-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A7%88%EB%8B%A4%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%9D%90%EB%A6%84%EC%9D%84%20%EA%B3%A0%EB%AF%BC%ED%95%98%EB%A9%B0%20%EB%8D%94%20%EB%82%98%EC%9D%80%20%EA%B5%AC%ED%98%84%20%EB%B0%A9%EB%B2%95%EC%9D%84%20%EC%8C%93%EC%95%84%EA%B0%80%EA%B3%A0%20%EC%9E%88%EC%8A%B5%EB%8B%88%EB%8B%A4-nl-%EC%95%88%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EB%A7%8C%EB%93%9C%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EB%AA%A9%ED%91%9C%EB%A1%9C%20%ED%95%A9%EB%8B%88%EB%8B%A4&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=67" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,35:1e3a8a,70:0f172a,100:020617&height=200&section=footer&text=%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EB%B6%80%EB%94%AA%ED%9E%88%EB%A9%B0%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%ED%95%B4%EA%B2%B0%ED%95%A9%EB%8B%88%EB%8B%A4-nl-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A7%88%EB%8B%A4%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%ED%9D%90%EB%A6%84%EC%9D%84%20%EA%B3%A0%EB%AF%BC%ED%95%A9%EB%8B%88%EB%8B%A4-nl-%EC%95%88%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=67" />
 
 <br/>
 
-<h2 align="center">💡 사용 기술 💡</h2>
+<h2 align="center">💼 대표 프로젝트 💼</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">프로젝트</th>
+      <th align="center">구분</th>
+      <th align="center">주요 기술</th>
+      <th align="center">핵심 내용</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><a href="https://github.com/allen8524/cineflow-spring-boot">CineFlow Spring Boot</a></td>
+      <td align="left">영화 예매/관리 웹 서비스</td>
+      <td align="left">Java, Spring Boot, Gradle, Thymeleaf, JPA, Spring Security, Flyway, MySQL, H2</td>
+      <td align="left">영화, 상영, 예매, 관리자 흐름을 Spring 기반으로 구성</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/allen8524/esports-portal-management">eSports Portal Management</a></td>
+      <td align="left">e스포츠 포털/경기 관리</td>
+      <td align="left">Laravel, PHP, MySQL, Bootstrap</td>
+      <td align="left">팀, 경기, 포털 운영 흐름을 관리하는 Laravel 웹 프로젝트</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/allen8524/shopping-mall-management-php">Shopping Mall Management PHP</a></td>
+      <td align="left">쇼핑몰 판매관리</td>
+      <td align="left">PHP, MySQL, phpMyAdmin, XAMPP</td>
+      <td align="left">상품, 장바구니, 주문, 관리자 주문관리 흐름 구현</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/allen8524/bakery-sales-management-laravel">Bakery Sales Management Laravel</a></td>
+      <td align="left">베이커리 판매관리</td>
+      <td align="left">Laravel, PHP, MySQL</td>
+      <td align="left">베이커리 상품과 판매 관리를 다루는 Laravel 프로젝트</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/allen8524/healthyup-ios">HealthyUp iOS</a></td>
+      <td align="left">모바일 건강관리 앱</td>
+      <td align="left">Swift, Xcode, iOS</td>
+      <td align="left">BMI 계산과 건강관리 기록을 다루는 iOS 포트폴리오 앱</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/allen8524/access-database-mini-projects">Access Database Mini Projects</a></td>
+      <td align="left">데이터베이스 미니 프로젝트</td>
+      <td align="left">Microsoft Access, DB 설계</td>
+      <td align="left">테이블 설계, 데이터 정리, 정규화 흐름을 연습한 프로젝트 모음</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/allen8524/undead-survivor-unity">Undead Survivor Unity</a></td>
+      <td align="left">Unity 게임 프로젝트</td>
+      <td align="left">Unity, C#</td>
+      <td align="left">생존형 게임 로직과 플레이 흐름을 구현한 Unity 프로젝트</td>
+    </tr>
+    <tr>
+      <td align="left"><a href="https://github.com/allen8524/allen8524.github.io">Portfolio Website</a></td>
+      <td align="left">개인 포트폴리오 웹사이트</td>
+      <td align="left">HTML, CSS, JavaScript, GitHub Pages</td>
+      <td align="left">프로필과 프로젝트를 정리한 개인 포트폴리오 사이트</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<h2 align="center">🛠 사용 기술 🛠</h2>
 
 <br/>
 
 <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 <img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/THYMELEAF-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
 <img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
@@ -74,12 +153,20 @@
 
 <br/>
 
+<img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=swift&logoColor=white" />
+<img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+<img src="https://img.shields.io/badge/UNITY-111827?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
+
+<br/>
+
 <img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/MARIADB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+<img src="https://img.shields.io/badge/MICROSOFT%20ACCESS-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
 
 <br/><br/>
 
-<h2 align="center">🛠 도구 🛠</h2>
+<h2 align="center">🧰 도구 🧰</h2>
 
 <br/>
 
@@ -94,11 +181,14 @@
 <img src="https://img.shields.io/badge/PHPMYADMIN-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
 <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 <img src="https://img.shields.io/badge/LARAGON-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
+<img src="https://img.shields.io/badge/XCODE-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
 <img src="https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-<img src="https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/UNITY-111827?style=for-the-badge&logo=unity&logoColor=white" />
+<img src="https://img.shields.io/badge/GODOT-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
+<img src="https://img.shields.io/badge/MICROSOFT%20ACCESS-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
 <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/GITHUB%20PAGES-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
 

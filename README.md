@@ -42,6 +42,10 @@
         <img src="https://img.shields.io/badge/SHOPPING%20MALL-1D4ED8?style=for-the-badge&logo=php&logoColor=white" />
       </a>
       <br/>
+      <a href="https://github.com/allen8524/movie-pca-rating-analysis">
+        <img src="https://img.shields.io/badge/MOVIE%20ANALYSIS-0F4C81?style=for-the-badge&logo=pandas&logoColor=white" />
+      </a>
+      <br/>
       <a href="https://github.com/allen8524/allen8524.github.io">
         <img src="https://img.shields.io/badge/PORTFOLIO%20WEBSITE-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" />
       </a>
@@ -53,7 +57,7 @@
 
 <br/>
 
-<h2 align="center">💼 대표 프로젝트 💼</h2>
+<h2 align="center">핵심 백엔드 프로젝트</h2>
 
 <table>
   <thead>
@@ -61,7 +65,7 @@
       <th align="center">프로젝트</th>
       <th align="center">구분</th>
       <th align="center">주요 기술</th>
-      <th align="center">핵심 내용</th>
+      <th align="center">핵심 구현</th>
     </tr>
   </thead>
   <tbody>
@@ -69,25 +73,48 @@
       <td align="left"><a href="https://github.com/allen8524/cineflow-spring-boot">CineFlow Spring Boot</a></td>
       <td align="left">영화 예매/관리 웹 서비스</td>
       <td align="left">Java, Spring Boot, Gradle, Thymeleaf, JPA, Spring Security, Flyway, MySQL, H2</td>
-      <td align="left">영화 목록, 상영 일정, 좌석 예매, 결제 흐름, 관리자 CRUD를 Spring Boot 기반으로 구현</td>
+      <td align="left">영화 목록, 상영 일정, 좌석 예매, 결제 흐름, 관리자 CRUD, Spring Security 기반 인증 흐름 구현</td>
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/allen8524/esports-portal-management">eSports Portal Management</a></td>
       <td align="left">e스포츠 포털/경기 관리</td>
       <td align="left">Laravel, PHP, MySQL, Bootstrap</td>
-      <td align="left">팀/선수/경기 정보 관리와 포털 운영 흐름을 Laravel 기반으로 구현</td>
+      <td align="left">팀·선수·경기·뉴스 관리, finished 경기 기준 순위 집계, 관리자 인증과 미들웨어 접근 제어 구현</td>
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/allen8524/shopping-mall-management-php">Shopping Mall Management PHP</a></td>
       <td align="left">쇼핑몰 판매관리</td>
       <td align="left">PHP, MySQL, phpMyAdmin, XAMPP</td>
-      <td align="left">장바구니 → 주문 마스터 저장 → 주문 상세 저장 → 관리자 주문 조회 흐름 구현</td>
+      <td align="left">장바구니, 주문번호 생성, 주문 마스터 저장, 주문 상세 저장, 관리자 주문 조회 흐름 구현</td>
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/allen8524/bakery-sales-management-laravel">Bakery Sales Management Laravel</a></td>
       <td align="left">베이커리 판매관리</td>
       <td align="left">Laravel, PHP, MySQL</td>
-      <td align="left">상품 등록, 판매 관리, 관리자 화면 중심의 Laravel 판매관리 프로젝트</td>
+      <td align="left">상품 등록, 재고 관리, 판매 내역 조회, 관리자 판매관리 화면 구현</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+<h2 align="center">데이터 분석 및 기타 프로젝트</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th align="center">프로젝트</th>
+      <th align="center">구분</th>
+      <th align="center">주요 기술</th>
+      <th align="center">핵심 구현</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="left"><a href="https://github.com/allen8524/movie-pca-rating-analysis">Movie PCA Rating Analysis</a></td>
+      <td align="left">영화 데이터 분석 프로젝트</td>
+      <td align="left">Python, pandas, scikit-learn, statsmodels, matplotlib</td>
+      <td align="left">Cine21 영화 데이터를 전처리하고 PCA, 상관분석, ARIMA, 선형회귀로 평점과 흥행 지표의 관계를 분석</td>
     </tr>
     <tr>
       <td align="left"><a href="https://github.com/allen8524/healthyup-ios">HealthyUp iOS</a></td>
@@ -118,7 +145,7 @@
 
 <br/>
 
-<h2 align="center">🛠 사용 기술 🛠</h2>
+<h2 align="center">주요 백엔드 기술</h2>
 
 <br/>
 
@@ -132,11 +159,30 @@
 
 <br/>
 
+<h2 align="center">프론트엔드 및 템플릿</h2>
+
+<br/>
+
 <img src="https://img.shields.io/badge/THYMELEAF-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
 <img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+
+<br/>
+
+<h2 align="center">데이터 분석</h2>
+
+<br/>
+
+<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" />
+
+<br/>
+
+<h2 align="center">기타 경험</h2>
 
 <br/>
 
@@ -168,7 +214,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/MICROSOFT%20ACCESS-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
 <img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
 <img src="https://img.shields.io/badge/GITHUB%20PAGES-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
 

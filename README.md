@@ -1,14 +1,14 @@
 <div align="left">
 
-<h2>👋 황민서</h2>
+👋 황민서
 
-<p><strong>Backend Developer</strong></p>
+<p><strong>Backend Developer</strong></p><sub>데이터와 상태를 찰떡같이 연결해 작동하는 서비스</sub>
 
-<sub>데이터와 상태를 찰떡같이 연결해 작동하는 서비스</sub>
 
-</div>
 
 <h2></h2>
+
+</div>
 
 ### 🌱 About
 

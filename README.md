@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,65:1e3a8a,100:2563eb&height=240&section=header&text=MINSEO&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%EC%9D%B8%EB%8D%95%EB%8C%80%ED%95%99%EA%B5%90%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC%0ASpring%20Boot%20%C2%B7%20Laravel%20%C2%B7%20PHP%20%C2%B7%20MySQL%0A%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C%EC%9E%90&descAlignY=67&descSize=16" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:0f172a,65:1e3a8a,100:2563eb&height=240&section=header&text=MINSEO&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%EC%9D%B8%EB%8D%95%EB%8C%80%ED%95%99%EA%B5%90%20%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC%0AJava%20%C2%B7%20Spring%20Boot%20%C2%B7%20Laravel%20%C2%B7%20PHP%20%C2%B7%20MySQL%0ABackend%20Developer&descAlignY=67&descSize=16" />
 
 <table>
   <tr>
@@ -53,204 +53,136 @@
   </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,35:1e3a8a,70:0f172a,100:020617&height=200&section=footer&text=%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EB%B6%80%EB%94%AA%ED%9E%88%EB%A9%B0%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%ED%95%B4%EA%B2%B0%ED%95%A9%EB%8B%88%EB%8B%A4-nl-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A7%88%EB%8B%A4%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%9D%90%EB%A6%84%EC%9D%84%20%EA%B3%A0%EB%AF%BC%ED%95%A9%EB%8B%88%EB%8B%A4-nl-%EC%95%88%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EB%AA%A9%ED%91%9C%EB%A1%9C%20%ED%95%A9%EB%8B%88%EB%8B%A4&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=67" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,35:1e3a8a,70:0f172a,100:020617&height=200&section=footer&text=%EC%A7%81%EC%A0%91%20%EB%A7%8C%EB%93%A4%EA%B3%A0%20%EB%B6%80%EB%94%AA%ED%9E%88%EB%A9%B0%20%EB%AC%B8%EC%A0%9C%EB%A5%BC%20%ED%95%B4%EA%B2%B0%ED%95%A9%EB%8B%88%EB%8B%A4-nl-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A7%88%EB%8B%A4%20%EA%B5%AC%EC%A1%B0%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%ED%9D%90%EB%A6%84%EC%9D%84%20%EA%B3%A0%EB%AF%BC%ED%95%A9%EB%8B%88%EB%8B%A4-nl-%EC%95%88%EC%A0%95%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC%20%EA%B5%AC%ED%98%84%ED%95%A9%EB%8B%88%EB%8B%A4&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=67" />
+
+</div>
 
 <br/>
 
-<h2 align="center">핵심 백엔드 프로젝트</h2>
+## Featured Projects
 
-<table>
-  <thead>
-    <tr>
-      <th align="center">프로젝트</th>
-      <th align="center">구분</th>
-      <th align="center">주요 기술</th>
-      <th align="center">핵심 구현</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left"><a href="https://github.com/allen8524/cineflow-spring-boot">CineFlow Spring Boot</a></td>
-      <td align="left">영화 예매/관리 웹 서비스</td>
-      <td align="left">Java, Spring Boot, Gradle, Thymeleaf, JPA, Spring Security, Flyway, MySQL, H2</td>
-      <td align="left">영화 목록, 상영 일정, 좌석 예매, 결제 흐름, 관리자 CRUD, Spring Security 기반 인증 흐름 구현</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/allen8524/esports-portal-management">eSports Portal Management</a></td>
-      <td align="left">e스포츠 포털/경기 관리</td>
-      <td align="left">Laravel, PHP, MySQL, Bootstrap</td>
-      <td align="left">팀·선수·경기·뉴스 관리, finished 경기 기준 순위 집계, 관리자 인증과 미들웨어 접근 제어 구현</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/allen8524/shopping-mall-management-php">Shopping Mall Management PHP</a></td>
-      <td align="left">쇼핑몰 판매관리</td>
-      <td align="left">PHP, MySQL, phpMyAdmin, XAMPP</td>
-      <td align="left">장바구니, 주문번호 생성, 주문 마스터 저장, 주문 상세 저장, 관리자 주문 조회 흐름 구현</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/allen8524/bakery-sales-management-laravel">Bakery Sales Management Laravel</a></td>
-      <td align="left">베이커리 판매관리</td>
-      <td align="left">Laravel, PHP, MySQL</td>
-      <td align="left">상품 등록, 재고 관리, 판매 내역 조회, 관리자 판매관리 화면 구현</td>
-    </tr>
-  </tbody>
-</table>
+### 01. CineFlow — 영화 예매 및 영화관 운영 관리 서비스
 
-<br/>
+`Java 17` `Spring Boot 3.4.4` `Spring Security` `Spring Data JPA` `MySQL` `Flyway`
 
-<h2 align="center">데이터 분석 및 기타 프로젝트</h2>
+영화 탐색부터 상영 회차 선택, 좌석 선택, 결제, 예매 조회와 취소까지 이어지는 영화관 예매 흐름을 구현했습니다.
 
-<table>
-  <thead>
-    <tr>
-      <th align="center">프로젝트</th>
-      <th align="center">구분</th>
-      <th align="center">주요 기술</th>
-      <th align="center">핵심 구현</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="left"><a href="https://github.com/allen8524/movie-pca-rating-analysis">Movie PCA Rating Analysis</a></td>
-      <td align="left">영화 데이터 분석 프로젝트</td>
-      <td align="left">Python, pandas, scikit-learn, statsmodels, matplotlib</td>
-      <td align="left">Cine21 영화 데이터를 전처리하고 PCA, 상관분석, ARIMA, 선형회귀로 평점과 흥행 지표의 관계를 분석</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/allen8524/healthyup-ios">HealthyUp iOS</a></td>
-      <td align="left">모바일 건강관리 앱</td>
-      <td align="left">Swift, Xcode, iOS</td>
-      <td align="left">BMI 계산과 건강 기록 화면을 구성한 iOS 앱</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/allen8524/access-database-mini-projects">Access Database Mini Projects</a></td>
-      <td align="left">데이터베이스 미니 프로젝트</td>
-      <td align="left">Microsoft Access, DB 설계</td>
-      <td align="left">Access 기반 테이블 설계, 데이터 정리, 관계형 DB 구조 연습 프로젝트</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/allen8524/undead-survivor-unity">Undead Survivor Unity</a></td>
-      <td align="left">Unity 게임 프로젝트</td>
-      <td align="left">Unity, C#</td>
-      <td align="left">Unity와 C# 기반 생존형 게임 로직 구현</td>
-    </tr>
-    <tr>
-      <td align="left"><a href="https://github.com/allen8524/allen8524.github.io">Portfolio Website</a></td>
-      <td align="left">개인 포트폴리오 웹사이트</td>
-      <td align="left">HTML, CSS, JavaScript, GitHub Pages</td>
-      <td align="left">개인 프로젝트와 이력을 정리한 GitHub Pages 포트폴리오</td>
-    </tr>
-  </tbody>
-</table>
+- TMDB 데이터와 로컬 영화 데이터를 함께 사용하는 영화 조회 구조
+- 상영관 좌석 템플릿과 상영 회차별 좌석 상태를 분리한 좌석 관리
+- 회원·비회원 예매 조회와 Spring Security 기반 사용자·관리자 권한 분리
+- H2 개발 환경과 MySQL 로컬 환경을 분리하고 Flyway로 스키마 관리
+
+<a href="https://github.com/allen8524/cineflow-spring-boot">
+  <img src="https://img.shields.io/badge/REPOSITORY-2563EB?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://allen8524.github.io/#/projects/cineflow">
+  <img src="https://img.shields.io/badge/PROJECT%20DETAIL-1E3A8A?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+---
+
+### 02. eSports Portal — e스포츠 포털 및 경기 관리 서비스
+
+`Laravel` `PHP` `MySQL` `Blade` `Bootstrap`
+
+팀, 선수, 경기, 뉴스 데이터를 관리하고 경기 결과를 기준으로 순위표를 계산하는 포털형 웹 애플리케이션입니다.
+
+- 팀·선수·경기·뉴스의 조회 및 관리자 CRUD
+- 종료된 경기만 반영하는 승·패·득실차·승률 순위 집계
+- 관리자 인증과 미들웨어 기반 접근 제어
+- Eloquent 관계, 파일 업로드, 검색·필터·정렬 처리
+
+<a href="https://github.com/allen8524/esports-portal-management">
+  <img src="https://img.shields.io/badge/REPOSITORY-2563EB?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://allen8524.github.io/#/projects/esports">
+  <img src="https://img.shields.io/badge/PROJECT%20DETAIL-1E3A8A?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
+
+---
+
+### 03. Shopping Mall Management — 쇼핑몰 판매 관리 서비스
+
+`PHP` `MySQL` `Bootstrap` `JavaScript` `jQuery`
+
+상품 조회와 장바구니부터 주문 저장, 주문 조회, 관리자 상품·주문 관리까지 구성한 쇼핑몰 웹 애플리케이션입니다.
+
+- 상품 목록·검색·상세 조회와 옵션별 주문 처리
+- 쿠키 기반 장바구니 수량 수정 및 삭제
+- 주문 마스터와 주문 상세를 분리한 저장 구조와 트랜잭션 처리
+- 회원·비회원 주문 조회와 관리자 상품·주문·회원 관리
+
+<a href="https://github.com/allen8524/shopping-mall-management-php">
+  <img src="https://img.shields.io/badge/REPOSITORY-2563EB?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="https://allen8524.github.io/#/projects/shopping">
+  <img src="https://img.shields.io/badge/PROJECT%20DETAIL-1E3A8A?style=flat-square&logo=googlechrome&logoColor=white" />
+</a>
 
 <br/>
 
-<h2 align="center">주요 백엔드 기술</h2>
+## Core Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/JAVA-1E3A8A?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/SPRING%20BOOT-2563EB?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/SPRING%20SECURITY-1E40AF?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/JPA-0F4C81?style=for-the-badge&logo=hibernate&logoColor=white" />
+<img src="https://img.shields.io/badge/MYSQL-1D4ED8?style=for-the-badge&logo=mysql&logoColor=white" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/SPRING%20BOOT-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/SPRING%20SECURITY-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
-<img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
-<img src="https://img.shields.io/badge/LARAVEL-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/MYSQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/LARAVEL-1E3A8A?style=for-the-badge&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-2563EB?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/PYTHON-1E40AF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/THYMELEAF-0F4C81?style=for-the-badge&logo=thymeleaf&logoColor=white" />
+<img src="https://img.shields.io/badge/GIT-1D4ED8?style=for-the-badge&logo=git&logoColor=white" />
+
+</div>
 
 <br/>
 
-<h2 align="center">프론트엔드 및 템플릿</h2>
+## Education & Certification
+
+- 인덕대학교 컴퓨터소프트웨어학과
+- 정보처리산업기사
 
 <br/>
 
-<img src="https://img.shields.io/badge/THYMELEAF-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111827" />
-<img src="https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+## More Projects
+
+<details>
+<summary>다른 프로젝트 보기</summary>
 
 <br/>
 
-<h2 align="center">데이터 분석</h2>
+| 프로젝트 | 기술 | 내용 |
+|---|---|---|
+| [Bakery Sales Management](https://github.com/allen8524/bakery-sales-management-laravel) | Laravel, PHP, MySQL | 상품 등록, 재고 관리, 판매 내역 조회를 구현한 베이커리 판매관리 서비스 |
+| [Seoul Bike Demand Analysis](https://github.com/allen8524/seoul-bike-demand-analysis) | R, dplyr, ggplot2 | 서울 공공자전거 수요 예측과 대여소 이용 유형 군집 분석 |
+| [Movie PCA Rating Analysis](https://github.com/allen8524/movie-pca-rating-analysis) | Python, pandas, scikit-learn | Cine21 영화 데이터의 PCA, 상관분석, ARIMA, 선형회귀 분석 |
+| [Portfolio Website](https://github.com/allen8524/allen8524.github.io) | React, TypeScript, Vite | 프로젝트와 문제 해결 과정을 정리한 GitHub Pages 포트폴리오 |
+| [HealthyUp iOS](https://github.com/allen8524/healthyup-ios) | Swift, UIKit, iOS | BMI 계산, 운동 정보, 영상 재생, 운동 계획 기능을 구현한 iOS 앱 |
+| [Undead Survivor](https://github.com/allen8524/undead-survivor-unity) | Unity, C# | Unity 기반 모바일 생존형 액션 게임 |
+| [Access Database Mini Projects](https://github.com/allen8524/access-database-mini-projects) | Microsoft Access | 테이블 설계, 데이터 정리, 관계형 데이터베이스 구조 실습 |
+
+</details>
 
 <br/>
 
-<img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<div align="center">
 
-<br/>
-
-<h2 align="center">기타 경험</h2>
-
-<br/>
-
-<img src="https://img.shields.io/badge/SWIFT-F05138?style=for-the-badge&logo=swift&logoColor=white" />
-<img src="https://img.shields.io/badge/IOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-<img src="https://img.shields.io/badge/UNITY-111827?style=for-the-badge&logo=unity&logoColor=white" />
-<img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />
-<img src="https://img.shields.io/badge/MICROSOFT%20ACCESS-A4373A?style=for-the-badge&logo=microsoftaccess&logoColor=white" />
-
-<br/><br/>
-
-<h2 align="center">🧰 도구 🧰</h2>
-
-<br/>
-
-<img src="https://img.shields.io/badge/VISUAL%20STUDIO%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/GRADLE-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-<img src="https://img.shields.io/badge/MYSQL%20WORKBENCH-0F5D8C?style=for-the-badge&logo=mysql&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/PHPMYADMIN-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" />
-<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
-<img src="https://img.shields.io/badge/LARAGON-0E83CD?style=for-the-badge&logo=laragon&logoColor=white" />
-<img src="https://img.shields.io/badge/XCODE-147EFB?style=for-the-badge&logo=xcode&logoColor=white" />
-<img src="https://img.shields.io/badge/ANDROID%20STUDIO-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/NOTION-000000?style=for-the-badge&logo=notion&logoColor=white" />
-<img src="https://img.shields.io/badge/GITHUB%20PAGES-222222?style=for-the-badge&logo=githubpages&logoColor=white" />
-
-<br/><br/>
-
-<h2 align="center">🎓 학력 및 학습 🎓</h2>
-
-<br/>
-
-<img src="https://img.shields.io/badge/%EC%9D%B8%EB%8D%95%EB%8C%80%ED%95%99%EA%B5%90-1E3A8A?style=for-the-badge&logo=googleacademics&logoColor=white" />
-<img src="https://img.shields.io/badge/%EC%BB%B4%ED%93%A8%ED%84%B0%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%ED%95%99%EA%B3%BC-0F766E?style=for-the-badge&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/%EC%A0%95%EB%B3%B4%EC%B2%98%EB%A6%AC%EC%82%B0%EC%97%85%EA%B8%B0%EC%82%AC-9333EA?style=for-the-badge" />
-
-<br/><br/>
-
-<h2 align="center">📊 GitHub 통계 📊</h2>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=allen8524&theme=github" width="92%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=allen8524&theme=github" width="46%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=allen8524&theme=github" width="46%" />
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=allen8524&theme=github" width="46%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=allen8524&theme=github&utcOffset=9" width="46%" />
-
-<br/>
+### Problem Solving
 
 <a href="https://solved.ac/profile/allen8524">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=allen8524" alt="Solved.ac Profile" width="750" />
+  <img src="https://img.shields.io/badge/SOLVED.AC-allen8524-2563EB?style=for-the-badge&logo=codeforces&logoColor=white" />
 </a>
 
 <br/><br/>
+
+<a href="https://allen8524.github.io/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-allen8524.github.io-0F172A?style=for-the-badge&logo=githubpages&logoColor=white" />
+</a>
 
 </div>

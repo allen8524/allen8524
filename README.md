@@ -35,31 +35,17 @@
 
 ### 🧩 Featured Projects
 
-<table>
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <sub>SPRING BOOT</sub><br />
-      <strong><a href="https://github.com/allen8524/cineflow-spring-boot">CineFlow</a></strong>
-      <p>영화 예매 · 좌석 · 결제 · 관리자</p>
-      <code>Java</code> <code>JPA</code> <code>MySQL</code><br /><br />
-      <a href="https://allen8524.github.io/#/projects/cineflow">Detail →</a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <sub>PYTHON · SECURITY</sub><br />
-      <strong><a href="https://github.com/allen8524/secure-socket-chat">SecureSocketChat</a></strong>
-      <p>암호화 채팅 · 패킷 · 무결성 검증</p>
-      <code>Python</code> <code>PyNaCl</code> <code>pytest</code><br /><br />
-      <a href="https://github.com/allen8524/secure-socket-chat">Code →</a>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <sub>LARAVEL</sub><br />
-      <strong><a href="https://github.com/allen8524/esports-portal-management">eSports Portal</a></strong>
-      <p>경기 · 순위 집계 · 콘텐츠 관리</p>
-      <code>Laravel</code> <code>PHP</code> <code>MySQL</code><br /><br />
-      <a href="https://allen8524.github.io/#/projects/esports">Detail →</a>
-    </td>
-  </tr>
-</table>
+#### [CineFlow](https://github.com/allen8524/cineflow-spring-boot) · `Spring Boot`
+영화 예매, 좌석, 결제, 예매 조회·취소와 관리자 운영을 구현했습니다.  
+`Java` `Spring Boot` `JPA` `Spring Security` `MySQL` · [상세 보기](https://allen8524.github.io/#/projects/cineflow)
+
+#### [SecureSocketChat](https://github.com/allen8524/secure-socket-chat) · `Python Security`
+암호화 채널, 자체 패킷 framing, 파일 무결성 검증과 자동 테스트를 구현했습니다.  
+`Python` `PyNaCl` `Socket` `pytest`
+
+#### [eSports Portal](https://github.com/allen8524/esports-portal-management) · `Laravel`
+경기 결과 기반 순위 집계와 팀·선수·뉴스·관리자 기능을 구현했습니다.  
+`Laravel` `PHP` `MySQL` · [상세 보기](https://allen8524.github.io/#/projects/esports)
 
 ### 🛠 Stack
 

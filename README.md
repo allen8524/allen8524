@@ -18,12 +18,12 @@
 
 <p>
   <img src="https://img.shields.io/badge/Backend-Java-2EA44F?style=flat-square&logo=openjdk&logoColor=white&labelColor=555555" alt="Java" />
+  <img src="https://img.shields.io/badge/Backend-PHP-2EA44F?style=flat-square&logo=php&logoColor=white&labelColor=555555" alt="PHP" />
   <img src="https://img.shields.io/badge/Framework-Spring%20Boot-2EA44F?style=flat-square&logo=springboot&logoColor=white&labelColor=555555" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Framework-Laravel-2EA44F?style=flat-square&logo=laravel&logoColor=white&labelColor=555555" alt="Laravel" />
   <img src="https://img.shields.io/badge/Security-Spring%20Security-2EA44F?style=flat-square&logo=springsecurity&logoColor=white&labelColor=555555" alt="Spring Security" />
   <img src="https://img.shields.io/badge/ORM-JPA-2EA44F?style=flat-square&logo=hibernate&logoColor=white&labelColor=555555" alt="JPA" />
   <img src="https://img.shields.io/badge/Database-MySQL-2EA44F?style=flat-square&logo=mysql&logoColor=white&labelColor=555555" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Backend-PHP-2EA44F?style=flat-square&logo=php&logoColor=white&labelColor=555555" alt="PHP" />
-  <img src="https://img.shields.io/badge/Framework-Laravel-2EA44F?style=flat-square&logo=laravel&logoColor=white&labelColor=555555" alt="Laravel" />
   <img src="https://img.shields.io/badge/Data-Python-2EA44F?style=flat-square&logo=python&logoColor=white&labelColor=555555" alt="Python" />
   <img src="https://img.shields.io/badge/Frontend-React-2EA44F?style=flat-square&logo=react&logoColor=white&labelColor=555555" alt="React" />
   <img src="https://img.shields.io/badge/Frontend-TypeScript-2EA44F?style=flat-square&logo=typescript&logoColor=white&labelColor=555555" alt="TypeScript" />

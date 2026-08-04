@@ -27,8 +27,6 @@
 인덕대 컴소과에서 백엔드를 전공하고 있어요.<br />
 인증부터 예매·주문·관리자까지, 데이터와 상태가 유기적으로 움직이는 서비스를 만들고 기록합니다.
 
-<sub>2025 교내 경진대회 최우수상 2회 · 금상 2회</sub>
-
 ### 🧩 Featured Projects
 
 - **[CineFlow](https://github.com/allen8524/cineflow-spring-boot)** — 영화 예매부터 관리자 운영까지 연결한 Spring Boot 서비스 · [상세 보기](https://allen8524.github.io/#/projects/cineflow)

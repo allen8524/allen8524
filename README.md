@@ -13,9 +13,9 @@
 
 ### 🧩 Featured Projects
 
-- **[CineFlow](https://github.com/allen8524/cineflow-spring-boot)** — 영화 예매부터 관리자 운영까지 연결한 Spring Boot 서비스 · [상세 보기](https://allen8524.github.io/#/projects/cineflow)
-- **[Shopping Mall Management](https://github.com/allen8524/shopping-mall-management-php)** — 상품 조회부터 주문 관리까지 구현한 PHP 쇼핑몰 · [상세 보기](https://allen8524.github.io/#/projects/shopping)
-- **[eSports Portal](https://github.com/allen8524/esports-portal-management)** — 경기 결과 집계와 콘텐츠 관리를 구현한 Laravel 포털 · [상세 보기](https://allen8524.github.io/#/projects/esports)
+- **[CineFlow](https://github.com/allen8524/cineflow-spring-boot)** — 영화 예매·운영 서비스 Spring Boot 사이트 · [상세 보기](https://allen8524.github.io/#/projects/cineflow)
+- **[Shopping Mall Management](https://github.com/allen8524/shopping-mall-management-php)** — 쇼핑몰 주문·관리 서비스 PHP 사이트 · [상세 보기](https://allen8524.github.io/#/projects/shopping)
+- **[eSports Portal](https://github.com/allen8524/esports-portal-management)** — e스포츠 경기·콘텐츠 관리 포털 Laravel 사이트 · [상세 보기](https://allen8524.github.io/#/projects/esports)
 
 ### 🛠 Stack
 

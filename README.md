@@ -1,8 +1,28 @@
-<p align="center">
-  <a href="https://allen8524.github.io/">
-    <img width="80%" alt="황민서 · Backend Developer" src="./assets/gh-readme-header.png" />
-  </a>
+<div align="center">
+
+<h1>황민서</h1>
+
+<p><strong>Backend Developer</strong></p>
+
+<p>요청부터 데이터 저장과 상태 변경까지 이어지는 흐름을 구현합니다.</p>
+
+<p>
+  <code>Java</code>
+  <code>Spring Boot</code>
+  <code>Spring Security</code>
+  <code>JPA</code>
+  <code>MySQL</code>
 </p>
+
+<p>
+  <a href="https://allen8524.github.io/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:minseo8524@gmail.com">Email</a>
+  &nbsp;·&nbsp;
+  <a href="https://solved.ac/profile/allen8524">Solved.ac</a>
+</p>
+
+</div>
 
 <br />
 

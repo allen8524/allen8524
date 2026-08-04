@@ -6,18 +6,6 @@
 
 <sub>데이터와 상태를 찰떡같이 연결해 작동하는 서비스</sub>
 
-<code>Java</code>
-<code>Spring Boot</code>
-<code>Spring Security</code>
-<code>JPA</code>
-<code>MySQL</code>
-
-<a href="https://allen8524.github.io/">Portfolio</a>
-&nbsp;·&nbsp;
-<a href="mailto:minseo8524@gmail.com">Email</a>
-&nbsp;·&nbsp;
-<a href="https://solved.ac/profile/allen8524">Solved.ac</a>
-
 </div>
 
 <h2></h2>
@@ -25,7 +13,7 @@
 ### 🌱 About
 
 인덕대 컴소과에서 백엔드를 전공하고 있어요.<br />
-인증부터 예매·주문·관리자까지, 데이터와 상태가 유기적으로 움직이는 서비스를 만들고 기록합니다.
+데이터와 상태가 유기적으로 움직이는 서비스를 만들고 기록합니다.
 
 ### 🧩 Featured Projects
 

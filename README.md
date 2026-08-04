@@ -35,9 +35,9 @@
 영화 예매, 좌석, 결제, 예매 조회·취소와 관리자 운영을 구현했습니다.  
 `Java` `Spring Boot` `JPA` `Spring Security` `MySQL` · [상세 보기](https://allen8524.github.io/#/projects/cineflow)
 
-#### [SecureSocketChat](https://github.com/allen8524/secure-socket-chat) · `Python Security`
-암호화 채널, 자체 패킷 framing, 파일 무결성 검증과 자동 테스트를 구현했습니다.  
-`Python` `PyNaCl` `Socket` `pytest`
+#### [Shopping Mall Management](https://github.com/allen8524/shopping-mall-management-php) · `PHP`
+상품 조회, 장바구니, 주문·결제와 관리자 주문 관리를 구현했습니다.  
+`PHP` `Bootstrap` `MySQL` · [상세 보기](https://allen8524.github.io/#/projects/shopping)
 
 #### [eSports Portal](https://github.com/allen8524/esports-portal-management) · `Laravel`
 경기 결과 기반 순위 집계와 팀·선수·뉴스·관리자 기능을 구현했습니다.  
@@ -52,7 +52,6 @@
 
 <br />
 
-- [Shopping Mall Management](https://github.com/allen8524/shopping-mall-management-php) — PHP 주문·관리자 시스템
 - [Seoul Bike Demand Analysis](https://github.com/allen8524/seoul-bike-demand-analysis) — R 수요 예측·군집 분석
 - [Movie PCA Rating Analysis](https://github.com/allen8524/movie-pca-rating-analysis) — Python PCA·회귀 분석
 - [CineFlow React](https://github.com/allen8524/cineflow-react-booking) — React·TypeScript 영화 예매

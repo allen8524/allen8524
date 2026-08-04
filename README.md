@@ -1,20 +1,16 @@
-<div align="center">
+<div align="left">
 
 <h2>👋 황민서</h2>
 
 <p><strong>Backend Developer</strong></p>
 
-<sub>데이터 흐름과 상태를 연결해 작동하는 서비스를 만듭니다.</sub>
-
-<br /><br />
+<sub>데이터와 상태를 찰떡같이 연결해 작동하는 서비스</sub>
 
 <code>Java</code>
 <code>Spring Boot</code>
 <code>Spring Security</code>
 <code>JPA</code>
 <code>MySQL</code>
-
-<br /><br />
 
 <a href="https://allen8524.github.io/">Portfolio</a>
 &nbsp;·&nbsp;
@@ -28,8 +24,8 @@
 
 ### 🌱 About
 
-인덕대학교 컴퓨터소프트웨어학과에서 백엔드 개발을 공부하고 있습니다.  
-예매·주문·인증·관리자 기능을 중심으로 프로젝트를 구현하고 기록합니다.
+인덕대 컴소과에서 백엔드를 전공하고 있어요.<br />
+인증부터 예매·주문·관리자까지, 데이터와 상태가 유기적으로 움직이는 서비스를 만들고 기록합니다.
 
 <sub>2025 교내 경진대회 최우수상 2회 · 금상 2회</sub>
 
@@ -64,9 +60,3 @@
 - [Undead Survivor](https://github.com/allen8524/undead-survivor-unity) — Unity 모바일 생존 게임
 
 </details>
-
-<br />
-
-<div align="center">
-  <sub>프로젝트의 자세한 구현 내용은 각 저장소와 포트폴리오에 정리했습니다.</sub>
-</div>

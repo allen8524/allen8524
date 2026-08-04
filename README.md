@@ -1,6 +1,6 @@
 ### 👋 황민서
 
-<p><strong>Backend Developer</strong></p><sub>데이터와 상태를 찰떡같이 연결해 작동하는 서비스</sub>
+<p><strong>Backend Developer</strong></p>
 
 
 ### 🌱 About

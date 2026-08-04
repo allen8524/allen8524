@@ -1,19 +1,15 @@
 <div align="left">
 
-👋 황민서
+<h2>👋 황민서</h2>
 
 <p><strong>Backend Developer</strong></p><sub>데이터와 상태를 찰떡같이 연결해 작동하는 서비스</sub>
-
-
-
-<h2></h2>
 
 </div>
 
 ### 🌱 About
 
 인덕대 컴소과에서 백엔드를 전공하고 있어요.<br />
-데이터와 상태가 유기적으로 움직이는 서비스를 만들고 기록합니다.
+데이터와 상태가 유기적으로 움직이는 서비스를 만들고 기록해요.
 
 ### 🧩 Featured Projects
 
